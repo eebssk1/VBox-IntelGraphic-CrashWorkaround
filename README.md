@@ -22,7 +22,7 @@ If is, then you can try the workaround.\
 &nbsp;Reboot to Windows Recovery Env or Any PE System you like and replace the "doomed" files with your modified files.(Make backups!!!)\
 &nbsp;Reboot to normal system and start the windows guest to see if this fix the problem.
 
-It looks like Intel's new certificate is somehow confusing VirtualBox (Although VB's some code are specially reword to fix this a century ago).\
+It looks like Intel's new certificate is somehow confusing VirtualBox (Although VB's some code are specially reworked to fix this a century ago).\
 And this only happens near the new general driver like 9077..
 
 I already posted a thread on intel community but they say they can't replicate....Quitly interesting....\
@@ -35,4 +35,4 @@ You don't need to worry that windows finds the modified files broken,actually th
 Tool > https://www.fluxbytes.com/software-releases/fileunsigner-v1-0/
 
 
-At the end, if you have better solution, pls tell me. If you got this problem too, pls star this so I can know that this happening to others too.
+#At the end, if you have better solution, pls tell me. If you got this problem too, pls consider star this so I can know that this is happening to others too.
